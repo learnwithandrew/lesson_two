@@ -1,0 +1,22 @@
+Scope refers the visibility and accessibilty of variables within a particular environment.
+
+Global Scope variables declared outside any function.
+Local scope/function these are variables declared inside a function
+Block scope these are variables declared using let and const within calibraces{}
+
+Goals
+level up on azure
+getting fit
+finances
+personal development
+
+Arrays are used to store multiples values in single variable.
+bracket notation - accessing arrays.
+array methods - .push, .pop(), .shift(), unshift()
+
+goal name: level up on azure
+duration: month
+time: 2hrs
+achieved: yes
+
+objects are data structures that store data in a key-value pair method.{}
